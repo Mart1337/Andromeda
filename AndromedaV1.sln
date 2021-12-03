@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndromedaV1", "AndromedaV1\AndromedaV1.csproj", "{5FF2A67B-3251-4D1D-A8B4-150084EF3460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF2A67B-3251-4D1D-A8B4-150084EF3460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF2A67B-3251-4D1D-A8B4-150084EF3460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF2A67B-3251-4D1D-A8B4-150084EF3460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF2A67B-3251-4D1D-A8B4-150084EF3460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6FB77AE-E25B-442A-8014-892EBD271C8C}
+	EndGlobalSection
+EndGlobal
