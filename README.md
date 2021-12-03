@@ -23,6 +23,8 @@ You can modify all thing, add your own functions...
 Enjoy <3
 
 ```
+**ALL DLL LIBS ARE IN DEBUG FOLDER !**
+
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916445943648354404/unknown.png" width="805px" height="545px" alt="downloading"></p>
 <p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916445984744148992/unknown.png" width="805px" height="545px" alt="downloading"></p>
