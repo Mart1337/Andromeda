@@ -1,39 +1,38 @@
-<p align="center"><img src="https://lh3.googleusercontent.com/proxy/wcOSPeNwpCkh9RDErVTu2X6aNr81o5E3AdWoRVwJwB5mxO2sKsWn5AgzNjnKnw1wJcDQhMWNsLzDCUOr4ox5X68Q6oHFWsE" width="150px" height="150px" alt="downloading"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916445840514633758/K26_charPreview_portrait.png" width="150px" height="150px" alt="andromeda"></p>
 
-<h1 align="center">C# Auto Updater</h1>
+<h1 align="center">🌌 Andromeda 🌌</h1>
 
 
-<p align="center">A simple auto updater for your application</p>
+<p align="center">The best way to UNLOCK all cosmetics on dead by daylight</p>
 
 
 ## Features
 
-* 🚀 Fast download
-* ⚙️ Easy to edit
-* 📂 Folder and files manager
+* 🎮 Work only on EPICGAMES, MICROSOFT STORE, XBOX GAME PASS
+* 💖 Made with love
+* 🌐 Market Request Method (Not file)
 
 ---
 
 **HOW IT WORKS ?**
 
-```csharp
-public static string Program_Name = "replaceit";
-//The name of the folder in your zipped file
-public static string folder_name_in_zip = "replaceit";
-//The name of your .exe file without the .exe
-public static string exe_file = "replaceit";
-//Your download link url use vps or web hosting to host your files
-public static string download_link = "replaceit";
+```
+Download the Project, unzip the zipped file. Here you go open Andromeda Project and debug it !
+You can modify all thing, add your own functions...
+
+Enjoy <3
+
 ```
 
-Replace these variables with your data (Program.cs)
-
+<p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916445943648354404/unknown.png" width="150px" height="150px" alt="downloading"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916445984744148992/unknown.png" width="150px" height="150px" alt="downloading"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916446044500394004/unknown.png" width="150px" height="150px" alt="downloading"></p>
 
 
 **Legal Notice**
 
 ```console
-Commercial Purposes are allowed 
+Commercial Purposes are allowed.
 ```
 
 ---
