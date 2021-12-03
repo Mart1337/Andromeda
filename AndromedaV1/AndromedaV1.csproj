@@ -33,18 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BCMakeCert">
-      <HintPath>F:\Users\mathi\Documents\BlackUnlockerPremiumV4\Auth.GG Winform Example\bin\blackunlocker\BCMakeCert.dll</HintPath>
-    </Reference>
-    <Reference Include="FiddlerCore">
-      <HintPath>F:\Users\mathi\Documents\BlackUnlockerPremiumV4\Auth.GG Winform Example\bin\blackunlocker\FiddlerCore.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>F:\Users\mathi\Documents\BlackUnlockerPremiumV4\Auth.GG Winform Example\bin\blackunlocker\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="Siticone.UI">
-      <HintPath>F:\Users\mathi\Documents\BlackUnlockerPremiumV4\Auth.GG Winform Example\bin\blackunlocker\Siticone.UI.dll</HintPath>
-    </Reference>
+    
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -56,9 +45,6 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="Telerik.NetworkConnections">
-      <HintPath>F:\Users\mathi\Documents\BlackUnlockerPremiumV4\Auth.GG Winform Example\bin\blackunlocker\Telerik.NetworkConnections.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Form3.cs">
