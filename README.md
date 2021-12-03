@@ -24,9 +24,9 @@ Enjoy <3
 
 ```
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916445943648354404/unknown.png" width="150px" height="150px" alt="downloading"></p>
-<p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916445984744148992/unknown.png" width="150px" height="150px" alt="downloading"></p>
-<p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916446044500394004/unknown.png" width="150px" height="150px" alt="downloading"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916445943648354404/unknown.png" width="805px" height="545px" alt="downloading"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916445984744148992/unknown.png" width="805px" height="545px" alt="downloading"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/909176514015268925/916446044500394004/unknown.png" width="805px" height="545px" alt="downloading"></p>
 
 
 **Legal Notice**
