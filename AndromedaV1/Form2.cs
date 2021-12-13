@@ -37,7 +37,7 @@ namespace AndromedaV1
 
         private void FiddlerApplication_BeforeResponse(Session oSession)
         {
-            if (oSession.fullUrl.Equals("https://grdk.live.bhvrdbd.com/api/v1/inventories"))
+            if (oSession.fullUrl.Equals("https://grdk.live.bhvrdbd.com/api/v1/inventories") || oSession.fullUrl.Equals("https://brill.live.bhvrdbd.com/api/v1/inventories"))
             {
 
                 oSession.utilDecodeResponse();
